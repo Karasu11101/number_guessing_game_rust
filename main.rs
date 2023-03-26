@@ -4,7 +4,7 @@ use rand::Rng;
 use colored::*;
 
 fn main() {
-    println!("Welcome to the Guess a Number!");
+    println!("Welcome to Guess a Number!");
 
     let number = rand::thread_rng().gen_range(1, 11);
 
