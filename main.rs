@@ -33,5 +33,5 @@ fn main() {
         };
     }
 
-    println!("The number was {}.", number);
+    println!("Thanks for playing!");
 }
